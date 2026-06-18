@@ -1,3 +1,4 @@
+// Narrows PM config setup
 const fs = require('fs');
 const e = process.env;
 
